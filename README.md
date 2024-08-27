@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Props
-n React, "props" (short for "properties") are a core concept that allows you to pass data from a parent component to a child component. They are similar to function arguments and can be used to configure the behavior, appearance, or data of the child component.
+In React, "props" (short for "properties") are a core concept that allows you to pass data from a parent component to a child component. They are similar to function arguments and can be used to configure the behavior, appearance, or data of the child component.
 
 # Key Points About Props:
 1. Immutable: Props are read-only, meaning that a child component cannot modify its props. If you need to modify the data, you should lift the state up to the parent component or use a callback to communicate changes.
