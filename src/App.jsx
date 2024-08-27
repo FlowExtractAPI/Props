@@ -1,13 +1,11 @@
-import One from "./One";
-import Three from "./Three";
-import "./App.css";
+import React from "react";
+import ProductList from "./ProductList";
 
 function App() {
   return (
-    <>
-      <One />
-      <Three />
-    </>
+    <div>
+      <ProductList />
+    </div>
   );
 }
 
