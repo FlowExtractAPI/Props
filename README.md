@@ -1,3 +1,6 @@
+[Passing Props to a Component](https://react.dev/learn/passing-props-to-a-component).
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
