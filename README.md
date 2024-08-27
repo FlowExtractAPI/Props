@@ -1,4 +1,4 @@
-[Passing Props to a Component](https://react.dev/learn/passing-props-to-a-component).
+# [Passing Props to a Component](https://react.dev/learn/passing-props-to-a-component).
 
 
 # React + Vite
